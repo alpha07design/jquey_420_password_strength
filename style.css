@@ -1,0 +1,26 @@
+body {
+    padding-top: 25px;
+    color: #0090FD;
+}
+
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+.red{
+    color: red;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+.orange{
+
+    padding: 5px 10px;
+    color: #d58512;
+    font-weight: bold;
+
+}
+.green{
+    color: darkgreen;
+    padding: 5px 10px;
+    font-weight: bold;
+}
