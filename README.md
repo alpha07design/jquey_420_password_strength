@@ -1,0 +1,1 @@
+# jquey_420_password_strenth
